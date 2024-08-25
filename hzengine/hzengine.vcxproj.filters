@@ -21,6 +21,9 @@
     <ClCompile Include="src\HzEngine\Application.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\HzEngine\Log.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\HzEngine\Core.h">
@@ -36,6 +39,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="src\HzEngine\EntryPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\HzEngine\Log.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
